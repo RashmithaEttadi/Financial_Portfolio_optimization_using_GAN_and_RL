@@ -6,12 +6,14 @@ Combining RL and GANs for financial forecasting shows promise in creating more r
 
 
 Reinforcement Learning models used
+
+
 1.Advanced Actor-Critic
 
 
-Deep Deterministic Policy Gradients
-It uses four neural networks
-1. Q Network(Actor)
-2. Deterministic policy network (Critic)
-3. Target Q network
-4. Target policy network
+2.Deep Deterministic Policy Gradients
+  It uses four neural networks
+  1. Q Network(Actor)
+  2. Deterministic policy network (Critic)
+  3. Target Q network
+  4. Target policy network
